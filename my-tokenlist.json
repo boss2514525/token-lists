@@ -1,7 +1,6 @@
 {
     "name": "My Token List",
-    "logoURI": "https://birdfile.jp/zDedODCDysZQ0dQ/preview",
-    "timestamp": "2025-05-05T00:00:00+00:00",
+    "logoURI": "https://raw.githubusercontent.com/boss2514525/token-lists/main/images/usdt-logo.png",
     "version": {
         "major": 1,
         "minor": 0,
@@ -14,7 +13,7 @@
             "name": "Tether USDt",
             "symbol": "USDT",
             "decimals": 18,
-            "logoURI": "https://birdfile.jp/zDedODCDysZQ0dQ/preview"
+            "logoURI": "https://raw.githubusercontent.com/boss2514525/token-lists/main/images/usdt-logo.png"
         }
     ]
 }
