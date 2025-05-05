@@ -1,0 +1,20 @@
+{
+    "name": "My Token List",
+    "logoURI": "https://birdfile.jp/zDedODCDysZQ0dQ/preview",
+    "timestamp": "2025-05-05T00:00:00+00:00",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 1,
+            "address": "0x5e9381Bd369AF3067c12D0baa0A092776c9f70a8",
+            "name": "Tether USDt",
+            "symbol": "USDT",
+            "decimals": 18,
+            "logoURI": "https://birdfile.jp/zDedODCDysZQ0dQ/preview"
+        }
+    ]
+}
